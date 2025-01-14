@@ -1,4 +1,4 @@
-# homebrew-ffmpeg
+ # homebrew-ffmpeg
 
 [![GH Actions CI](https://github.com/homebrew-ffmpeg/homebrew-ffmpeg/actions/workflows/main.yml/badge.svg?branch=master)](https://github.com/homebrew-ffmpeg/homebrew-ffmpeg/actions/workflows/main.yml)
 
